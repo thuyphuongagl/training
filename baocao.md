@@ -50,6 +50,24 @@
 ## Cơ chế hoạt động của browser và sự khác nhau giữa các browser.
 ***Cơ chế hoạt động của browser***
 
+\- Trình duyệt web lấy thông tin từ các phần khác của web và hiển thị trên máy tính hoặc thiết bị di động.Thông tin được truyền bằng HTTP. 
+
+\- Khi trình duyệt web tìm nạp dữ liệu từ một máy chủ được kết nối internet. Nó sử dụng một phần mềm được gọi là công cụ kết xuất để dịch dữ liệu đó thành văn bản và hình ảnh. Dữ liệu này được viết bằng HTML
+
+\- Hyperlink cho phép người dùng đi theo đường dẫn đến các trang hoặc trang web khác trên web.
+>Link tham khảo:
+[https://www.mozilla.org/vi/firefox/browsers/what-is-a-browser/](https://www.mozilla.org/vi/firefox/browsers/what-is-a-browser/)
+
+***sự khác nhau giữa các browser***
+
+\- Các browser không sử dụng bộ sử lý Rendering Engine (Layout engine) giống nhau nên các trang web không hiển thị giống nhau trên các trình duyệt
+* Firefox: Gecko Engine
+* Safari: WebKit
+* Opera: Presto
+* Chrome: Blink
+>Link tham khảo:
+[https://topdev.vn/blog/hieu-ve-trinh-duyet-how-browsers-work-2/](https://topdev.vn/blog/hieu-ve-trinh-duyet-how-browsers-work-2/)
+
 ## Cơ chế hoạt động của địa chỉ IP, DNS, domain.
 ***Cơ chế hoạt động của địa chỉ IP***
 
