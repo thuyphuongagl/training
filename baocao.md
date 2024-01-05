@@ -1,7 +1,6 @@
 ## Cơ chế hoạt động của internet và WWW.
 ***Cơ chế hoạt động của internet***
- * Internet được thực hiện thông qua các thiết bị định tuyến (router)
- * Các phương tiện truyền dẫn như cáp quang, vệ tinh, sóng vô tuyến, dây đồng trục.
+ * Internet được thực hiện thông qua các thiết bị định tuyến (router) và các phương tiện truyền dẫn như cáp quang, vệ tinh, sóng vô tuyến, dây đồng trục.
  * Tín hiệu điện tử đi qua các thiết bị định tuyến và các mạng truyền dẫn này để đạt đến điểm đích cuối.
  * TCP/IP là giao thức truyền tải dữ liệu cơ bản cho phép các thiết bị trên Internet giao tiếp và xác định đường đi tối ưu nhất để truyền dữ liệu.
 >Link tham khảo:
@@ -50,7 +49,7 @@
 ## Cơ chế hoạt động của browser và sự khác nhau giữa các browser.
 ***Cơ chế hoạt động của browser***
 
-\- Trình duyệt web lấy thông tin từ các phần khác của web và hiển thị trên máy tính hoặc thiết bị di động.Thông tin được truyền bằng HTTP. 
+\- Khi nhập một địa chỉ web vào thanh địa chỉ của browser, browser sẽ gửi một yêu cầu đến máy chủ web chứa trang web đó và hiển thị trên máy tính hoặc thiết bị di động.Thông tin được truyền bằng HTTP. 
 
 \- Khi trình duyệt web tìm nạp dữ liệu từ một máy chủ được kết nối internet. Nó sử dụng một phần mềm được gọi là công cụ kết xuất để dịch dữ liệu đó thành văn bản và hình ảnh. Dữ liệu này được viết bằng HTML
 
@@ -79,7 +78,7 @@
 
 \- Khi truy cập vào 1 trang web. Người dùng gửi yêu cầu tìm kiếm địa chỉ IP ứng với tên miền tới Name Server cục bộ. Máy chủ domain cục bộ sẽ tìm kiếm trong kho dữ liệu xem có cơ sở dữ liệu chuyển đổi từ tên miền sang địa chỉ IP của tên miền mà người dùng yêu cầu hay không. Việc tìm kiếm có thể dẫn tới một trong hai kết quả:
  * Không thấy thông tin -> DNS tiếp tục tìm kiếm tại bộ nhớ cache.
- * Không nhận được bất cứ thông tin nào -> DNS hiển thị mã lỗi.
+ * Không nhận được bất cứ thông tin nào -> DNS sẽ hiển thị mã lỗi.
 >Link tham khảo:
 [https://kinhtedothi.vn/domain-name-system-la-gi-cach-thuc-hoat-dong-cua-dns.html](https://kinhtedothi.vn/domain-name-system-la-gi-cach-thuc-hoat-dong-cua-dns.html)
 
